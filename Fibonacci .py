@@ -22,4 +22,7 @@ for i in range(n1,n2):
     print(a, end=" ") 
     if (b>n2):
         break
-
+enter the first number of range  0
+enter the last number of range   50
+fibbonacci series between 0 to 50 is
+1 1 2 3 5 8 13 21 34 
