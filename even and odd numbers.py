@@ -24,4 +24,12 @@ for i in range(n):
 print(list_of_numbers)
 print("numbers of even days"  , even)
 print("numbers of odd days"  , odd)
-
+enter the number of days= 5
+enter number1
+enter number2
+enter number3
+enter number4
+enter number5
+[1, 2, 3, 4, 5]
+numbers of even days 2
+numbers of odd days 3
