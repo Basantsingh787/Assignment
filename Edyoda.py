@@ -14,6 +14,8 @@ word = input("Input a word to reverse  = ")
 
 reversed_word=word[::-1]
 print(reversed_word)
+Input a word to reverse  = Edyoda
+adoydE
 
 
 # In[ ]:
